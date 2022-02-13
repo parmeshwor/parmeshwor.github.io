@@ -1,7 +1,8 @@
 ---
 short_name: parmeshwor
-name: parmeshwor thapa
+name: Parmeshwor Thapa
 position: software engineer
+layout: author
 ---
 
-Parmeshwor Thapa is software engineer with many years of experience. 
+Software engineer at IBM Cloud.
